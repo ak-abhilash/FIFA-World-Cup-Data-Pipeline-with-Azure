@@ -8,3 +8,6 @@ This repository showcases a data pipeline built using Azure services to process 
 - **Analytics:** Azure Synapse Analytics
 - **Visualization:** Power BI, Looker Studio, Tableau
 
+![Architecture](https://github.com/ak-abhilash/FIFA-World-Cup-Data-Pipeline-with-Azure/blob/6164197a7a9603e1417ef7f74f82fb820cd19f43/Architecture.png)
+
+
